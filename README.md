@@ -8,11 +8,7 @@ This project is a Streamlit-based application that allows users to upload PDF do
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Setup and Installation](#setup-and-installation)
-- [How to Use](#how-to-use)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
